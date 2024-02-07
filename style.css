@@ -1,0 +1,18 @@
+html {
+  font-size: 32px;
+  background-color: #54295c;
+  color: #467fa1;
+  text-align: center;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+p {
+  font-size: 24px;
+  width: 50%;
+}
